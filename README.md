@@ -1,1 +1,1 @@
-# A-Fusion-Approach-to-Infrared-and-Visible-Images
+# Fusion-Approach-to-Infrared-and-Visible-Images
